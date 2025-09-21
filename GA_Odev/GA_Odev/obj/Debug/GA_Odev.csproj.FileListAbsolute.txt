@@ -1,0 +1,30 @@
+C:\Users\AHMET BURAK\source\repos\GA_Odev\bin\Debug\GA_Odev.exe.config
+C:\Users\AHMET BURAK\source\repos\GA_Odev\bin\Debug\GA_Odev.exe
+C:\Users\AHMET BURAK\source\repos\GA_Odev\bin\Debug\GA_Odev.pdb
+C:\Users\AHMET BURAK\source\repos\GA_Odev\obj\Debug\GA_Odev.csproj.AssemblyReference.cache
+C:\Users\AHMET BURAK\source\repos\GA_Odev\obj\Debug\GA_Odev.Form1.resources
+C:\Users\AHMET BURAK\source\repos\GA_Odev\obj\Debug\GA_Odev.Properties.Resources.resources
+C:\Users\AHMET BURAK\source\repos\GA_Odev\obj\Debug\GA_Odev.csproj.GenerateResource.cache
+C:\Users\AHMET BURAK\source\repos\GA_Odev\obj\Debug\GA_Odev.csproj.CoreCompileInputs.cache
+C:\Users\AHMET BURAK\source\repos\GA_Odev\obj\Debug\GA_Odev.exe
+C:\Users\AHMET BURAK\source\repos\GA_Odev\obj\Debug\GA_Odev.pdb
+C:\Users\Asus\Downloads\GA_Odev\GA_Odev\bin\Debug\GA_Odev.exe.config
+C:\Users\Asus\Downloads\GA_Odev\GA_Odev\bin\Debug\GA_Odev.exe
+C:\Users\Asus\Downloads\GA_Odev\GA_Odev\bin\Debug\GA_Odev.pdb
+C:\Users\Asus\Downloads\GA_Odev\GA_Odev\obj\Debug\GA_Odev.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\GA_Odev\GA_Odev\obj\Debug\GA_Odev.Form1.resources
+C:\Users\Asus\Downloads\GA_Odev\GA_Odev\obj\Debug\GA_Odev.Properties.Resources.resources
+C:\Users\Asus\Downloads\GA_Odev\GA_Odev\obj\Debug\GA_Odev.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\GA_Odev\GA_Odev\obj\Debug\GA_Odev.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\GA_Odev\GA_Odev\obj\Debug\GA_Odev.exe
+C:\Users\Asus\Downloads\GA_Odev\GA_Odev\obj\Debug\GA_Odev.pdb
+C:\Users\Asus\OneDrive\Masaüstü\GA_Odev\GA_Odev\bin\Debug\GA_Odev.exe.config
+C:\Users\Asus\OneDrive\Masaüstü\GA_Odev\GA_Odev\bin\Debug\GA_Odev.exe
+C:\Users\Asus\OneDrive\Masaüstü\GA_Odev\GA_Odev\bin\Debug\GA_Odev.pdb
+C:\Users\Asus\OneDrive\Masaüstü\GA_Odev\GA_Odev\obj\Debug\GA_Odev.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Masaüstü\GA_Odev\GA_Odev\obj\Debug\GA_Odev.Form1.resources
+C:\Users\Asus\OneDrive\Masaüstü\GA_Odev\GA_Odev\obj\Debug\GA_Odev.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Masaüstü\GA_Odev\GA_Odev\obj\Debug\GA_Odev.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Masaüstü\GA_Odev\GA_Odev\obj\Debug\GA_Odev.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\GA_Odev\GA_Odev\obj\Debug\GA_Odev.exe
+C:\Users\Asus\OneDrive\Masaüstü\GA_Odev\GA_Odev\obj\Debug\GA_Odev.pdb
